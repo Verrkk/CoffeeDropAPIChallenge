@@ -1,0 +1,18 @@
+Coffee Drop Technical Assignment:
+
+Hi Imageplus! I want to just firstly thank you for the opportunity of handing this technical test to me! It was really really fun to tackle and complete over the week, which leads me to also apologise as I did not get to work on the optional task of making a front end part of this technical task which really did upset me as I love working front end! My main concern was ensuring that this task was complete and I was able to hand it in with the requirements met at my best ability. With this said, I will be honest in saying this was a trying task having to restart a few times and a lot of research involved as there were things in this task I hadn’t even tackled before despite working with Laravel for almost 3 years at LiveBuzz so I apologise first hand for any mistakes you might find when going over this task, but I wanted to ensure that absolutely nothing was going to stop me from learning whilst doing this task and ensuring it was completed, so I was relentless and went at it day after day.
+
+At the start of the project, I set out to start the project within Laravel version 12, to which was a downfall entirely, as it started a lot of conflicts with version controls, meaning I had to restart the project twice and on the third try going down a 3 versions to be safe and reinstall Laravel to version 9 and work from there reusing some of the migrations and files created through the previous versions.
+I learnt a lot about different extensions that exist whilst going through this task (csv reader is seriously a life saver). I was also able to expand on my current knowledge of writing with Laravel which was really fun to work with especially log returning to little down the problem part by part and getting to the end was seriously satisfying! I was able to tackle a lot of my problems logging everything as well as having stack overflow to help with any unknown errors I might have seen to help out throughout the project.
+I tackled each part individually for the task, I went through the brief and tackled each part in sections when I could and swapping between each when needed to correlate the code (Get locations and Create new location) to start off, I tackled the locations as there was a majority of work there needed, then worked into the calculating the cash, and coming back to locations when I had to fix some of my code and fill in the missing blanks when trying to calculate the latitudes and longitudes of the post codes. 
+To start this, I went through the brief and the files and made a bulleted point step by step in my head how to tackle it, from basics to complex.
+
+1. Install a fresh environment (Laravel v12, composer, new database(MySQL)
+2. Install Extensions (csv reader, Postman) 
+3. Link SQL, Fix Laravel (a lot), create migrations 
+4. Work through Controller, Routes, Models, Treat postman like it’s my best friend
+5. Break everything to pull errors and fix said errors
+
+One way I learnt the best way to code and understand how it works, was to just dissect code and break + log combo to understand whats going on within the code and where it needs to work/communicate with any other files albeit even the database, which is why I didn’t realise I hadn’t tackled the latitude and longitude population issue until later into the project, but it was better noticed than not!
+But to not drag on this document, I want to say I’m thankful a lot for the task as it allowed me to put a lot of what I know to use as well as learn a lot! (Especially how to keep changing versions of Laravel and version control a lot better now).
+
